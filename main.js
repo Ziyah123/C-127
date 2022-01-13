@@ -42,7 +42,7 @@ song2.rate(1);
 } 
 
 function draw() {
-image(VIDEO,0,0,600,500);
+image(video,0,0,600,500);
 song1_status=song1.isPlaying();
 song2_status=song2.isPlaying();
 
